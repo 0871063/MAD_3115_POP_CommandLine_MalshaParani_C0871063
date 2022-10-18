@@ -12,6 +12,8 @@
 		2C07EEDD28FE19DC0089B10B /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C07EED828FE19DC0089B10B /* Animal.swift */; };
 		2C07EEDE28FE19DC0089B10B /* AnimalInDanger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C07EED928FE19DC0089B10B /* AnimalInDanger.swift */; };
 		2C07EEE028FE1A040089B10B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C07EEDF28FE1A040089B10B /* main.swift */; };
+		2C07EF1F28FE39880089B10B /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C07EF1E28FE39880089B10B /* Pet.swift */; };
+		2C07EF2128FE3A8D0089B10B /* GuardAnimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C07EF2028FE3A8D0089B10B /* GuardAnimal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		2C07EED828FE19DC0089B10B /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		2C07EED928FE19DC0089B10B /* AnimalInDanger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalInDanger.swift; sourceTree = "<group>"; };
 		2C07EEDF28FE1A040089B10B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2C07EF1E28FE39880089B10B /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
+		2C07EF2028FE3A8D0089B10B /* GuardAnimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuardAnimal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 				2C07EED928FE19DC0089B10B /* AnimalInDanger.swift */,
 				2C07EED728FE19DC0089B10B /* Gadget.swift */,
 				2C07EED628FE19DC0089B10B /* StuffedAnimal.swift */,
+				2C07EF1E28FE39880089B10B /* Pet.swift */,
+				2C07EF2028FE3A8D0089B10B /* GuardAnimal.swift */,
 			);
 			path = MAD_3115_POP_CommandLine_MalshaParani_C0871063;
 			sourceTree = "<group>";
@@ -135,8 +141,10 @@
 				2C07EEDB28FE19DC0089B10B /* StuffedAnimal.swift in Sources */,
 				2C07EEE028FE1A040089B10B /* main.swift in Sources */,
 				2C07EEDE28FE19DC0089B10B /* AnimalInDanger.swift in Sources */,
+				2C07EF1F28FE39880089B10B /* Pet.swift in Sources */,
 				2C07EEDC28FE19DC0089B10B /* Gadget.swift in Sources */,
 				2C07EEDD28FE19DC0089B10B /* Animal.swift in Sources */,
+				2C07EF2128FE3A8D0089B10B /* GuardAnimal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
